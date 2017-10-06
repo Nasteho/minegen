@@ -1,4 +1,4 @@
-# minegen
+# minegen historie 
 
 ## Dette er en test øvelse.
 
@@ -7,6 +7,6 @@
 
 Man kan se en liste foroven
 
-## Vi har det sjovt 
+## Vi har det sjovt
 
 ### dette er en meget mindre test.
