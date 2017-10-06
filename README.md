@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # minegen blablabla
+=======
+# minegen historie 
+>>>>>>> 30dabbf8d6273451aaaa660b4d020a60b9b6aea1
 
 ## Dette er en test øvelse.
 
